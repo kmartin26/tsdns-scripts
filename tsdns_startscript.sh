@@ -16,7 +16,7 @@
 BINARYPATH="/path/to/folder/tsdns" # path to the TSDNS folder
 
 # DO NOT EDIT IF YOU DON'T KNOW WHAT YOU ARE DOING!!!
-BINARYNAME="tsdnsserver_linux_x86"
+BINARYNAME="tsdnsserver"
 
 cd "${BINARYPATH}"
 LIBRARYPATH="$(pwd)"
